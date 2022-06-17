@@ -3,13 +3,13 @@ body{
     font-family: 'Libre Baskerville', serif !important;
 }
 .main-color{
-    color: #D14200 !important;
+    color: #0737bd !important;
 }
 .main-colorbg{
-    background-color: #D14200 !important;
+    background-color: #0737bd !important;
 }
 nav ul li a:hover{
-    color: #D14200 !important;
+    color: #0737bd !important;
     font-weight: bold;
 }
 /* Hero section */
@@ -22,7 +22,7 @@ nav ul li a:hover{
 
 .view-btn:hover{
     color: white !important;
-    background-color: #D14200 !important;
+    background-color: #0737bd !important;
     border: none !important;
 }
 
